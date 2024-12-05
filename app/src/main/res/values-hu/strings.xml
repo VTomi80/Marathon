@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marathon</string>
+    <string name="text_hint">Ide írd a szöveget:</string>
+    <string name="then_click_here">Név hozzáadása</string>
+    <string name="and_it_will_appear_here">És a megjelenik itt</string>
+    <string name="remove_last_item">Utolsó név törlése</string>
+</resources>

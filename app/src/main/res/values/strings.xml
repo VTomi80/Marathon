@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Marathon</string>
+    <string name="text_hint">Enter first name:</string>
+    <string name="text_hint2">Enter last name:</string>
+    <string name="then_click_here">Add name</string>
+    <string name="and_it_will_appear_here">And it will appear here</string>
+    <string name="remove_last_item">Remove last name</string>
+</resources>
