@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Button
+id Delete
+id firstName
+id fistNameInput
+id id
+id lastName
+id lastNameInput
+id main
+id recyclerView
+layout activity_detail
+layout activity_main
+layout row_name
+mipmap ic_launcher
+mipmap ic_launcher_round
+string and_it_will_appear_here
+string app_name
+string remove_last_item
+string text_hint
+string text_hint2
+string then_click_here
+style Base.Theme.Marathon
+style Theme.Marathon
+xml backup_rules
+xml data_extraction_rules

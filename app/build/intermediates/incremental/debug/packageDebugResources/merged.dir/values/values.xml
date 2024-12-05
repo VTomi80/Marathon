@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="and_it_will_appear_here">And it will appear here</string>
+    <string name="app_name">Marathon</string>
+    <string name="remove_last_item">Remove last name</string>
+    <string name="text_hint">Enter first name:</string>
+    <string name="text_hint2">Enter last name:</string>
+    <string name="then_click_here">Add name</string>
+    <style name="Base.Theme.Marathon" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Marathon" parent="Base.Theme.Marathon"/>
+</resources>

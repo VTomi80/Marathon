@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "hu.gde.marathon.app-mergeDebugResources-34:/layout/activity_detail.xml",
+        "source": "hu.gde.marathon.app-main-37:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "hu.gde.marathon.app-mergeDebugResources-34:/layout/row_name.xml",
+        "source": "hu.gde.marathon.app-main-37:/layout/row_name.xml"
+    },
+    {
+        "merged": "hu.gde.marathon.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "hu.gde.marathon.app-main-37:/layout/activity_main.xml"
+    }
+]
